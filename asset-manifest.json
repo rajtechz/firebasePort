@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/firebasePort/static/css/main.d57cd7f9.css",
-    "main.js": "/firebasePort/static/js/main.02114f46.js",
-    "static/js/787.728a399a.chunk.js": "/firebasePort/static/js/787.728a399a.chunk.js",
+    "main.js": "/firebasePort/static/js/main.3fa9b3db.js",
+    "static/js/787.d13604ce.chunk.js": "/firebasePort/static/js/787.d13604ce.chunk.js",
     "static/media/portfolio5.png": "/firebasePort/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio2.jpg": "/firebasePort/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/firebasePort/static/media/portfolio6.72d1107e313049cf15a7.jpg",
@@ -13,11 +13,11 @@
     "static/media/Dhanush.jpg": "/firebasePort/static/media/Dhanush.9203cb83848081a566c7.jpg",
     "index.html": "/firebasePort/index.html",
     "main.d57cd7f9.css.map": "/firebasePort/static/css/main.d57cd7f9.css.map",
-    "main.02114f46.js.map": "/firebasePort/static/js/main.02114f46.js.map",
-    "787.728a399a.chunk.js.map": "/firebasePort/static/js/787.728a399a.chunk.js.map"
+    "main.3fa9b3db.js.map": "/firebasePort/static/js/main.3fa9b3db.js.map",
+    "787.d13604ce.chunk.js.map": "/firebasePort/static/js/787.d13604ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d57cd7f9.css",
-    "static/js/main.02114f46.js"
+    "static/js/main.3fa9b3db.js"
   ]
 }
